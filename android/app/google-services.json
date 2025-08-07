@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "730667356039",
+    "project_id": "glinex-b6d54",
+    "storage_bucket": "glinex-b6d54.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730667356039:android:c09da4fc847900b7d30d22",
+        "android_client_info": {
+          "package_name": "com.example.untitled2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcBA71udppA9hTVLWeI7UBQqHt01x3YYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
